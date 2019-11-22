@@ -16,7 +16,7 @@ To install this package you must have [NodeJS](https://nodejs.org/en/download/pa
 Install via [NPM](https://www.npmjs.com/get-npm) (easiest method).
 
 ```sh
-# npm install --save @variably/uncaptcha-node # will remove this comment when published
+npm install --save @variably/uncaptcha-node
 ```
 
 Then import the package:

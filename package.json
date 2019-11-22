@@ -1,6 +1,6 @@
 {
   "name": "@variably/uncaptcha-node",
-  "version": "0.0.1",
+  "version": "0.0.2-0",
   "description": "uncaptcha node",
   "main": "index.js",
   "scripts": {
